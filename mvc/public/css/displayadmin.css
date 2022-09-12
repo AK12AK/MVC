@@ -1,0 +1,29 @@
+table,th,td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+th{
+    background-color: green;
+    color: #f2f2f2;
+}
+#tdcolor tr:nth-child(even){background-color: #f2f2f2;}
+ #tdcolor tr:hover {background-color: rgb(206, 202, 202);}
+ #tdcolor th{
+    padding: 24px;
+    font-weight:bolder;
+    font-size: 16px;
+
+ }
+ #tdcolor td{
+padding: 4px;
+text-align: center;
+ }
+ .srch_lgout{
+     display: flex;
+     align-items: stretch;
+     justify-content: space-between;
+     margin: 10px;
+}
+table{
+    margin: 10px;
+}

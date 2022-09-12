@@ -1,0 +1,16 @@
+form{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 10px;
+    row-gap: 22px;
+    column-gap: 50px;
+    padding : 8px;
+    background-color: darkgray;
+}
+body{
+    background-color: beige;
+}
+#id{
+    height: 30px;
+
+}

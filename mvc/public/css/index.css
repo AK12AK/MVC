@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(181 181 178);
+    
+    align-items: center;
+    
+}
+h3{
+    margin: 10px;
+}
+button{
+    height: 30px;
+    margin: 10px;
+}
+input{
+    margin: 10px;
+    height: 30px;
+}
+/* .index1css{
+  display: flex;
+  flex-wrap:wrap;
+} */
+.form1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.index1css{
+    display: flex;
+    flex-direction: column;
+    /* margin: 172px; */
+    background-color: azure;
+    width: 287px;
+    /* margin-left: 479px; */
+    /* margin-top: 159px; */
+    align-items: center;
+    position: absolute;
+    left: 540px;
+    top: 147px;
+}
+#idbutton{
+    height: 30px;
+    margin: 10px;
+    width: 190px;
+    border: none;
+}
+#fade{
+    color: red;
+}
